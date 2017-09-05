@@ -37,10 +37,10 @@ In order to have access to the training repository use the following credentials
 
 ## Module 2. Widget Extras
 
-[ICE Content](https://bitbucket.org/backbase/cxp-fe2-m02-widget-extras-e01-icecontent)
-[Structured Content](https://bitbucket.org/backbase/cxp-fe2-m02-widget-extras-e02-structuredcontent)
+[ICE Content](https://bitbucket.org/backbase/cxp-fe2-m02-widget-extras-e01-icecontent)  
+[Structured Content](https://bitbucket.org/backbase/cxp-fe2-m02-widget-extras-e02-structuredcontent)  
 
 ## Module 3. Container Development
 
-[Generating a custom container](https://bitbucket.org/backbase/cxp-fe2-m03-container-development-e01-accordioncontainer)
-[Improving the container template](https://bitbucket.org/backbase/cxp-fe2-m03-container-development-e02-accordiontemplate)
+[Generating a custom container](https://bitbucket.org/backbase/cxp-fe2-m03-container-development-e01-accordioncontainer)  
+[Improving the container template](https://bitbucket.org/backbase/cxp-fe2-m03-container-development-e02-accordiontemplate)  
