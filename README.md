@@ -9,7 +9,7 @@ Welcome to our Frontend Training Course. These exercises are aimed to guide you 
 
 In order to have access to the training repository use the following credentials:
 
-**User:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;training@backbase.com  
+**User:** training@backbase.com  
 **Password:** b4ckb4s3-tr41n1ng
 
 
@@ -17,9 +17,10 @@ In order to have access to the training repository use the following credentials
 
 [Configuring your dev environment](https://bitbucket.org/backbase/cxp-fe2-m00-setup)
 
-## Module 1. Widget Development
+## Module 1. Widget Development  
 
-	### Extensions
+
+	### Extensions  
 
 1. [Extending the Contact Manager Widget](https://bitbucket.org/backbase/cxp-fe2-m01-widget-development-e01-extensions-template)  
 2. [Generating an UI Component](https://bitbucket.org/backbase/cxp-fe2-m01-widget-development-e02-extensions-ui)  
@@ -27,7 +28,7 @@ In order to have access to the training repository use the following credentials
 4. [Hooks](https://bitbucket.org/backbase/cxp-fe2-m01-widget-development-e04-extensions-hooks)
 5. [Helpers](https://bitbucket.org/backbase/cxp-fe2-m01-widget-development-e05-extensions-helpers)
 
-	### Custom Widget Development
+	### Custom Widget Development  
 
 6. [Working with RAML](https://bitbucket.org/backbase/cxp-fe2-m01-widget-development-e06-custom-widget-raml)  
 7. [Develop Functionality](https://bitbucket.org/backbase/cxp-fe2-m01-widget-development-e07-custom-widget-functionality)  
