@@ -2,17 +2,6 @@
 
 Welcome to our Frontend Training Course. These exercises are aimed to guide you through all the concepts you need to know to successfully become a Widget Collection 2 Frontend Developer.
 
-## Repository
-
-**Repository URL**: https://bitbucket.org/backbase/cxp-fe2-training
-
-
-In order to have access to the training repository use the following credentials:
-
-**User:** training@backbase.com  
-**Password:** b4ckb4s3-tr41n1ng
-
-
 ## Setup
 
 [Configuring your dev environment](https://bitbucket.org/backbase/cxp-fe2-m00-setup)
