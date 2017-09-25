@@ -4,7 +4,7 @@ Welcome to our Frontend Training Course. These exercises are aimed to guide you 
 
 ## Setup
 
-[Configuring your dev environment](https://bitbucket.org/backbase/cxp-fe2-m00-setup)
+[Setup your Development Environment](https://bitbucket.org/backbase/cxp-fe2-m00-setup)
 
 ## Module 1. Widget Development  
 
