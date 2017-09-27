@@ -26,7 +26,7 @@ Welcome to our Frontend Training Course. These exercises are aimed to guide you 
 
 ## Module 2. Widget Extras
 
-1. [ICE Content](https://bitbucket.org/backbase/cxp-fe2-m02-widget-extras-e01-icecontent)  
+1. [ICE Template](https://bitbucket.org/backbase/cxp-fe2-m02-widget-extras-e01-ice-template)  
 2. [Structured Content](https://bitbucket.org/backbase/cxp-fe2-m02-widget-extras-e02-structuredcontent)  
 
 ## Module 3. Container Development
