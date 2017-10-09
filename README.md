@@ -2,9 +2,9 @@
 
 Welcome to our Frontend Training Course. These exercises are aimed to guide you through all the concepts you need to know to successfully become a Widget Collection 2 Frontend Developer.
 
-## Help Document
+## Training Resources Document
 
-It contains useful information, instructions, and resource. You can access this document using the url - [Help Document](./resources.md)
+It contains useful information, instructions, and resources. [Training Resources Document](./resources.md)
 
 ## Setup
 
