@@ -2,12 +2,15 @@
 
 Welcome to our Frontend Training Course. These exercises are aimed to guide you through all the concepts you need to know to successfully become a Widget Collection 2 Frontend Developer.
 
+## Help Document
+
+It contains useful information, instructions, and resource. You can access this document using the url - [Help Document](./resources.md)
+
 ## Setup
 
 [Setup your Development Environment](https://bitbucket.org/backbase/cxp-fe2-m00-setup)
 
 ## Module 1. Widget Development  
-
 
 ### Extensions  
 
@@ -32,4 +35,4 @@ Welcome to our Frontend Training Course. These exercises are aimed to guide you 
 ## Module 3. Container Development
 
 1. [Generating a custom container](https://bitbucket.org/backbase/cxp-fe2-m03-container-development-e01-accordioncontainer)  
-2. [Improving the container template](https://bitbucket.org/backbase/cxp-fe2-m03-container-development-e02-accordiontemplate)  
+2. [Improving the container template](https://bitbucket.org/backbase/cxp-fe2-m03-container-development-e02-accordiontemplate) 
