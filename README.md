@@ -23,9 +23,8 @@ It contains useful information, instructions, and resources. [Training Resources
 ### Custom Widget Development  
 
 1. [Working with RAML](https://bitbucket.org/backbase/cxp-fe2-m01-widget-development-e06-custom-widget-raml)  
-2. [Testing your code](https://bitbucket.org/backbase/cxp-fe2-m01-widget-development-e07-testing-your-code)  
-3. [Develop Functionality](https://bitbucket.org/backbase/cxp-fe2-m01-widget-development-e08-custom-widget-functionality)  
-4. [Communicating between Widgets](https://bitbucket.org/backbase/cxp-fe2-m01-widget-development-e09-custom-widget-communication)  
+2. [Develop Functionality](https://bitbucket.org/backbase/cxp-fe2-m01-widget-development-e08-custom-widget-functionality)  
+3. [Communicating between Widgets](https://bitbucket.org/backbase/cxp-fe2-m01-widget-development-e09-custom-widget-communication)  
 
 
 ## Module 2. Widget Extras
