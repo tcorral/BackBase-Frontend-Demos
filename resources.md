@@ -18,10 +18,6 @@ This [guide](https://my.backbase.com/docs/how-to-guides/article//setting-up-cxp-
 
 [My Backbase](https://my.backbase.com/) Online community and resource center used to learn all about Backbase Products. You can find the product documentation how-to-guides, Q&A, and so on.
 
-### BB-CLI
-
-[BB-CLI](https://docs.backbase.com/extranet/technical-docs/bb-cli/2.0/) Frontend tooling for Backbase Portal development.
-
 ### BB-CLI How-To's
 
 [BB-CLI How-to's](https://my.backbase.com/docs/product-documentation/documentation//Retail-Banking/latest/bb-cli-how-tos.html).
@@ -30,7 +26,7 @@ This [guide](https://my.backbase.com/docs/how-to-guides/article//setting-up-cxp-
 
 It contains technical documentation for [Retail Collection](https://my.backbase.com/docs/product-documentation/documentation//Retail-Banking-API/latest/config-bb-locale.html).
 
-[Widget API](https://my.backbase.com/docs/product-documentation/documentation//Retail-Banking-API/latest/config-bb-locale.html) can be accessed under Retail Collection Technical Documentation.
+[Widget API](https://my.backbase.com/docs/product-documentation/documentation//Retail-Banking-API/latest/lib-bb-widget.html) can be accessed under Retail Collection Technical Documentation.
 
 ### Structured Content
 
